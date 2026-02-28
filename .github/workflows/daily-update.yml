@@ -1,4 +1,6 @@
-name: Daily Update - 24f3003942@ds.study.iitm.ac.in
+name: Daily Update
+
+run-name: Daily Update - 24f3003942@ds.study.iitm.ac.in
 
 on:
   schedule:
@@ -7,7 +9,6 @@ on:
 
 jobs:
   daily-commit:
-    name: daily-commit-24f3003942@ds.study.iitm.ac.in
     runs-on: ubuntu-latest
 
     permissions:
