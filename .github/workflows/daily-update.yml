@@ -1,12 +1,13 @@
 name: Daily Update - 24f3003942@ds.study.iitm.ac.in
-run-name: Daily Update - 24f3003942@ds.study.iitm.ac.in
+
 on:
   schedule:
     - cron: '17 03 * * *'
   workflow_dispatch:
 
 jobs:
-  daily-commit-24f3003942-ds-study-iitm-ac-in:
+  daily-commit:
+    name: daily-commit-24f3003942@ds.study.iitm.ac.in
     runs-on: ubuntu-latest
 
     permissions:
