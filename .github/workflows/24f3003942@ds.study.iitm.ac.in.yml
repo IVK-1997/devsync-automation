@@ -27,5 +27,5 @@ jobs:
         run: |
           echo "Last update: $(date -u +'%Y-%m-%d %H:%M:%S')" >> daily-log.txt
           git add daily-log.txt
-          git commit -m "Daily automated update $(date -u +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git commit -m "Daily automated update - 24f3003942@ds.study.iitm.ac.in $(date -u +'%Y-%m-%d %H:%M:%S')" || exit 0
           git push
