@@ -1,5 +1,5 @@
 name: Daily Update - 24f3003942@ds.study.iitm.ac.in
-
+run-name: Daily Update - 24f3003942@ds.study.iitm.ac.in
 on:
   schedule:
     - cron: '17 03 * * *'
