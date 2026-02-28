@@ -1,0 +1,1 @@
+[![Daily Update](https://github.com/IVK-1997/devsync-automation-24f3003942-ds.study.iitm.ac.in/actions/workflows/24f3003942@ds.study.iitm.ac.in.yml/badge.svg)](https://github.com/IVK-1997/devsync-automation-24f3003942-ds.study.iitm.ac.in/actions/workflows/24f3003942@ds.study.iitm.ac.in.yml)
